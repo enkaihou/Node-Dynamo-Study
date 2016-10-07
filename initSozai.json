@@ -1,0 +1,37 @@
+[{
+  "infoKind": 1,
+  "sozaiId": 10001,
+  "sozaiKind": 1,
+  "kariMidashi": "仮見出しA",
+  "honbun": "Context",
+  "sozaiName": "sozaiNameAAA",
+  "updateUser": "Guest",
+  "version": 1
+}, {
+  "infoKind": 2,
+  "sozaiId": 10002,
+  "sozaiKind": 1,
+  "kariMidashi": "仮見出しB",
+  "honbun": "Context BBBB",
+  "sozaiName": "sozaiNameBBB",
+  "updateUser": "Guest",
+  "version": 1
+}, {
+  "infoKind": 2,
+  "sozaiId": 10003,
+  "sozaiKind": 1,
+  "kariMidashi": "仮見出しCC",
+  "honbun": "ContextCCCC",
+  "sozaiName": "sozaiNameCCC",
+  "updateUser": "Guest",
+  "version": 1
+}, {
+  "infoKind": 2,
+  "sozaiId": 10004,
+  "sozaiKind": 2,
+  "kariMidashi": "仮見出しDDD",
+  "honbun": "Context",
+  "sozaiName": "sozaiNameDDD",
+  "updateUser": "Guest",
+  "version": 1
+}]
